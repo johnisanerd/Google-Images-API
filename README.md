@@ -19,8 +19,8 @@ Search Google Images in bulk and get back clean, structured JSON for every resul
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/johnisanerd/Apify-Google-Images-API.git
-   cd Apify-Google-Images-API
+   git clone https://github.com/johnisanerd/Google-Images-API.git
+   cd Google-Images-API
    ```
 
 2. **Install dependencies with UV**
