@@ -267,4 +267,10 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Images API to power your data workflows with reliable, structured results.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store.
+
+- [Export Google Images Results to CSV](https://apify.com/johnvc/google-images-api/examples/export-google-images-results-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.06.01
