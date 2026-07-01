@@ -273,4 +273,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export Google Images Results to CSV](https://apify.com/johnvc/google-images-api/examples/export-google-images-results-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.06.30
+Last Updated: 2026.07.01
